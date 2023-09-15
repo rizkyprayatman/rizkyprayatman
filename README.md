@@ -2,7 +2,8 @@
 
 # Hi 👋
 
-Perkenalkan nama saya **Rizky Prayatman**  
+Perkenalkan nama saya **Rizky Prayatman** <br>
+Salam kenal..
 
 <p align="left">
 <a href="https://github.com/rizkyprayatman">
