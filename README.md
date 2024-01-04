@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQG1aVyclWb1ww/profile-displaybackgroundimage-shrink_350_1400/0/1688019565231?e=1694649600&v=beta&t=RJQucFv2oQ0vG9QIQS-zpRqbbQN_Il4EJfeng7A5GXg)](https://rprayatman.my.id/)
-
 # Hi 👋
 
 Perkenalkan nama saya **Rizky Prayatman** <br>
